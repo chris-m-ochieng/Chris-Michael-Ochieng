@@ -2,10 +2,10 @@
 
 Aspiring SOC Analyst based in Kenya 🇰🇪, building hands-on skills in SIEM detection, log analysis, and incident response.
 
-- 🔭 Currently studying for **CompTIA Security+**
-- 🛠️ Hands-on with **Splunk**, **Wazuh**, and Windows event log analysis
-- 🔍 I like turning raw logs into a clear attack story — detection, investigation, and defensive recommendations
-- 📫 Reach me: michaechris123@gmail.com | [LinkedIn](https://www.linkedin.com/in/chris-michael-ochieng-995b39322/)
+-  Currently studying for **CompTIA Security+**
+-  Hands-on with **Splunk**, **Wazuh**, and Windows event log analysis
+-  I like turning raw logs into a clear attack story — detection, investigation, and defensive recommendations
+-  Reach me: michaechris123@gmail.com | [LinkedIn](https://www.linkedin.com/in/chris-michael-ochieng-995b39322/)
 
 ---
 
